@@ -1,0 +1,41 @@
+* {
+    text-align: center;
+    line-height: 20px;
+}
+
+h1 {
+    background-color: rgb(227, 120, 44);
+    color: white;
+    padding: 20px 10px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.description {
+    width: 80%;
+    margin: 0 auto;
+}
+
+ul li,
+ol li p{
+    text-align: left;
+}
+
+.heading {
+    text-align: left;
+    margin-left: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: rgb(227, 120, 44);
+    color: white;
+    font-weight: 700;
+    padding: 10px 20px;
+}

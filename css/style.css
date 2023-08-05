@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    background-color: rgb(227, 120, 44);
+    color: white;
+}
+
+h2, li {
+    text-align: left;
+}
+
+h2 {
+    margin-left: 20px;
+}
+
+li {
+    padding: 10px;
+}
+
+li a {
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: rgb(227, 120, 44);
+    color: white;
+    font-weight: 700;
+    padding: 10px 20px;
+}
